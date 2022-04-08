@@ -14,8 +14,6 @@
   <img align="center" alt="Teus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Teus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Teus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="right" alt="Teus-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/a6156b98b6df35483d7983a4b0c9759c.gif">
 </div>
   
   ##
